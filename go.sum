@@ -1,0 +1,10 @@
+github.com/codeus-node/fail v1.0.0 h1:uiAaS7VhJS3DTysyLUfKjprXqMQXf3NcxYvddRm1mqc=
+github.com/codeus-node/fail v1.0.0/go.mod h1:5bYcTsqajwEB0/jpst7JxFZtZd6yk53P0jucNdsOfRs=
+github.com/codeus-node/generic-di v1.0.1 h1:HIRe7SOfWgmmSGupAM1OALBv2hqeEDW1cICxUub7y/8=
+github.com/codeus-node/generic-di v1.0.1/go.mod h1:++xmEoBVsF91MXimyen2hw32POrA2XIENe8YjiMy6lY=
+github.com/codeus-node/icons v1.0.0 h1:GeyR+g++Y/hqptWW/aL1VZic5z+vzr4z8/ens0J+ELQ=
+github.com/codeus-node/icons v1.0.0/go.mod h1:IsOi0PSPgPmhNWbi3691Xwi19KGEse9DG8huvsgyWuE=
+github.com/codeus-node/printer v1.0.0 h1:fq0akWQkjqGl5DE0A4rsBtmTKb/L/sisAHRbxkvoOt0=
+github.com/codeus-node/printer v1.0.0/go.mod h1:eb/aPVwSapdf4xEvxesHNfEP4zF66kx1od5R3DOR8qw=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
